@@ -1,0 +1,5 @@
+{
+    "require": {
+        "aidantwoods/secureheaders": "^2.0"
+    }
+}

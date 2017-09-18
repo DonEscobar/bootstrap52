@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://www.area52labs.com/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.area52labs.com/work</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.area52labs.com/contact</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.area52labs.com/prooflab/login</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.area52labs.com/resources</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.area52labs.com/area52/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.area52labs.com/prooflab/forgotpass</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.area52labs.com/area52/feed</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.area52labs.com/area52/facebook-profile-cover</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.area52labs.com/area52/author/donescobar</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.area52labs.com/area52/tag/resources</loc>
+  <priority>0.64</priority>
+</url>
+</urlset>
